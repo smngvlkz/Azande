@@ -4,7 +4,7 @@ import speech_recognition as sr
 import time
 
 #set my OpenAI API key
-openai.api_key = "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"
+openai.api_key = "API KEY"
 
 #Initialize the text-to-speech engine
 engine = pyttsx3.init()
